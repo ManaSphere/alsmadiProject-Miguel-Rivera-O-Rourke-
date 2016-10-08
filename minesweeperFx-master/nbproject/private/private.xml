@@ -5,12 +5,11 @@
         <group>
             <file>file:/C:/Users/Miguel/Documents/NetBeansProjects/minesweeperFx-master/src/com/logicorp/games/Minesweeper/resources/config.properties</file>
             <file>file:/C:/Users/Miguel/Documents/NetBeansProjects/minesweeperFx-master/test/Test3.java</file>
-            <file>file:/C:/Users/Miguel/Documents/NetBeansProjects/minesweeperFx-master/src/com/logicorp/games/Minesweeper/ui/Board.java</file>
             <file>file:/C:/Users/Miguel/Documents/NetBeansProjects/minesweeperFx-master/test/Test2.java</file>
             <file>file:/C:/Users/Miguel/Documents/NetBeansProjects/minesweeperFx-master/src/com/logicorp/games/Minesweeper/utils/Configuration.java</file>
             <file>file:/C:/Users/Miguel/Documents/NetBeansProjects/minesweeperFx-master/src/com/logicorp/games/Minesweeper/model/SquareModel.java</file>
             <file>file:/C:/Users/Miguel/Documents/NetBeansProjects/minesweeperFx-master/src/com/logicorp/games/Minesweeper/ui/Square.java</file>
-            <file>file:/C:/Users/Miguel/Documents/NetBeansProjects/minesweeperFx-master/src/com/logicorp/games/Minesweeper/ui/UserInterface.java</file>
+            <file>file:/C:/Users/Miguel/Documents/NetBeansProjects/minesweeperFx-master/test/Test1.java</file>
         </group>
     </open-files>
 </project-private>

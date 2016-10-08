@@ -68,8 +68,8 @@ public class Test3 {
     
     @Test
     public void test4(){
-         BooleanProperty test1 = getMined();
-         assertEquals(test1, mined);
+         IntegerProperty test1 = getNeighbour();
+         assertEquals(test1, neighbour);
         
     }
     
@@ -94,6 +94,9 @@ public class Test3 {
     
     public boolean isVisited() {
         return visited;
+    }
+    public IntegerProperty getNeighbour() {
+        return neighbour;
     }
     
     
