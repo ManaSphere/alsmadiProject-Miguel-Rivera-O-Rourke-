@@ -5,6 +5,7 @@ import com.logicorp.games.Minesweeper.ui.UserInterface;
 import javafx.application.Application;
 import javafx.stage.Stage;
 
+
 public class Main extends Application {
        
     @Override
@@ -19,6 +20,8 @@ public class Main extends Application {
        primaryStage.setScene(ui.getScene());       
        primaryStage.setTitle("Mine Sweeper");
        primaryStage.show();
+       
     }
+   
   
 }
